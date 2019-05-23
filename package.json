@@ -1,0 +1,27 @@
+{
+  "name": "weight-loss-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjwine0/weight-loss-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bjwine0/weight-loss-app/issues"
+  },
+  "homepage": "https://github.com/bjwine0/weight-loss-app#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ejs": "^2.6.1",
+    "express": "^4.17.0",
+    "superagent": "^5.0.5",
+    "unirest": "^0.6.0"
+  }
+}
